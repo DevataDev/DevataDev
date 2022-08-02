@@ -5,5 +5,7 @@
 - 📫 How to reach me devatadev@pm.me
 
 My Stats :
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DevataDev&count_private=true&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevataDev&layout=compact&langs_count=10)
