@@ -5,7 +5,7 @@
 - 📫 How to reach me devatadev@pm.me
 
 ### Supporting Me : 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2NZZAQ)
+[![buymeacofee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/devatadev)
 
 My Stats :
 
