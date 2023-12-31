@@ -5,7 +5,7 @@
 - 📫 How to reach me devatadev@pm.me
 
 ### Supporting Me : 
-[![buymeacofee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/devatadev)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devatadev)
 
 My Stats :
 
